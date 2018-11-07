@@ -1,0 +1,39 @@
+*{
+  font-family: 'Arial';
+}
+.nav-link-white {
+  color: #fff;
+}
+.nav-link-white:hover{
+  text-decoration: none;
+  color: rgba(0,0,0,.5);
+}
+.bg-gold{
+  background-color: #bb8800;
+}
+.navbar-blanco{
+  color: #fff;
+}
+.item-show{
+  color: #fff;
+}
+.item-show:hover{
+  background-color: rgba(0,0,0,.2);
+  color: #fff;
+}
+.custom-toggler.navbar-toggler:focus {
+ outline-color: rgba(0,0,0,0.1);
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(250,250,250)' stroke-width='4' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.mostrar{
+  background-color: #E9AD0C !important;
+}
+.caja{
+  background-color: #bb8800;
+  border-radius: 6px;
+}
+.caja a{
+  color: #fff;
+}
