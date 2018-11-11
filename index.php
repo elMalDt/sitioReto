@@ -1,4 +1,4 @@
-  <!doctype html>
+<!doctype html>
   <html lang="en">
     <head>
       <!-- Required meta tags -->
@@ -19,7 +19,7 @@
           <div class="container" style="background-color: #1B3D70;">
             <div class="row">
               <div class="col-sm-12 col-md-6 d-flex justify-content-sm-center justify-content-md-start my-2">
-                <img src="img/Logo-UNAM.png" alt="">
+                <img src="img/Logo-UNAM.png"  alt="">
               </div>
               <div class="col-sm-12 col-md-6 d-flex justify-content-sm-center justify-content-md-end my-3">
                 <img src="img/logo_fesa.png" style=" height: 60px;" alt="">
